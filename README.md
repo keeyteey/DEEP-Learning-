@@ -2,11 +2,11 @@
 
 This project uses a Long Short-Term Memory (LSTM) neural network to perform time series prediction using Keras and TensorFlow. The code is implemented in a Jupyter Notebook (`LSTM_.ipynb`).
 
-## 📂 Project Structure
+##  Project Structure
 
 - `LSTM_.ipynb`: Main notebook containing data preprocessing, model creation, training, and evaluation.
 
-## 🚀 Features
+##  Features
 
 - Implements LSTM for univariate or multivariate time series forecasting.
 - Scales data using MinMaxScaler.
@@ -15,7 +15,7 @@ This project uses a Long Short-Term Memory (LSTM) neural network to perform time
 - Evaluates model performance using Mean Squared Error (MSE) or similar metrics.
 - Visualizes predictions vs. actual values.
 
-## 🛠️ Requirements
+## Requirements
 
 Make sure you have the following Python libraries installed:
 
